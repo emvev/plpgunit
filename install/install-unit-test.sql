@@ -20,8 +20,8 @@ AND MIX OPEN FOUNDATION HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT,
 UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 ***********************************************************************************/
 
-CREATE SCHEMA IF NOT EXISTS assert;
-CREATE SCHEMA IF NOT EXISTS unit_tests;
+CREATE SCHEMA assert;
+CREATE SCHEMA unit_tests;
 
 DO 
 $$
